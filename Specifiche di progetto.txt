@@ -1,0 +1,2 @@
+Realizzazione di un clone di un blocco note con funzioni avanzate. Il blocco note è dotato di una barra del menù, una barra di stato ed un campo in cui
+inserire il testo. 
